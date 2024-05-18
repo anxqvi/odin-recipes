@@ -1,0 +1,33 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', "Geneva", Verdana, sans-serif;
+}
+
+.header {
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.recipe-img {
+    width: 500px;
+    height: auto;
+}
+
+.subheader {
+    font-size: 30px;
+}
+
+.miniheader {
+    font-size: 18px;
+}
+
+.list.steps, .list.ingredients {
+    font-style: italic;
+}
+
+.ingredients {
+    color: steelblue;
+}
+
+.steps {
+    color:steelblue;
+}
